@@ -274,6 +274,7 @@ Format:
 | Tyler Anton | [mtanton](https://github.com/mtanton) | I am a second year CS student with Java experience. I'm looking to further my knowledge for real world use. |
 | Tyler Zika | [tylerzika](https://github.com/tylerzika) ||
 | Vaibhav Jain | [vjain20] (https://github.com/vjain20) | I am a software professional working in Java. I want to contribute to open source. ||
+| Vaibhav Pal Singh | [vaibhavpals](https://github.com/vaibhavpals) | I'm a Computer Science student with knowledge of Java. Looking to learn more while contributing to open source projects. |
 | Valerie Anderson | [valerietheblonde](https://github.com/valerietheblonde) | GIS Masters Student, interested in and afraid of programming. I do environmental work for farmers. |
 | Vicki Le | [vnle](https://github.com/vnle) ||
 | Vinit Ravishankar | [perseus0807](https://github.com/perseus0807) | Second year CS student, worked with C, C++, Python and Java, though also familiar with front-end web dev and basic systems programming. |
